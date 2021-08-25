@@ -1,4 +1,4 @@
----
+Instagram
 title: Deep dive into Codespaces
 intro: 'Understand how {% data variables.product.prodname_codespaces %} works.'
 allowTitleToDifferFromFilename: true
@@ -7,8 +7,7 @@ versions:
   free-pro-team: '*'
 type: quick_start
 topics:
-  - Codespaces
----
+  - Codespace
 
 {% data variables.product.prodname_codespaces %} is an instant, cloud-based development environment that uses a container to provide you with common languages, tools, and utilities for development. {% data variables.product.prodname_codespaces %} is also configurable, allowing you to create a customized development environment for your project. By configuring a custom development environment for your project, you can have a repeatable codespace configuration for all users of your project.
 
